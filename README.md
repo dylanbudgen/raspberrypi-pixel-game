@@ -6,3 +6,5 @@ The player is the blue pixel and the enemies are the red pixels. Avoid landing o
 
 ### Contact me
 Thanks for taking the time to look at my project. If you wish to contact me, please email me at ***REMOVED***
+
+![20170425_021020](https://cloud.githubusercontent.com/assets/15916056/25364858/38ce50c0-295d-11e7-8118-3020db421afe.jpg)
